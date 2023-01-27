@@ -6,7 +6,7 @@
 
 ## 1.4.0 2021-06-04
 
-* Added qraphql support
+* Added graphql support
 * Updated module to use independent python 2 & 3 implementations
 
 ## 1.3.2 2021-05-24

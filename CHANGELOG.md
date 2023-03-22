@@ -1,18 +1,20 @@
 # Python Module Release Notes
 
+## Unreleased
+
 ## 1.4.1 2021-09-20
 
 * Standardized release notes
 
 ## 1.4.0 2021-06-04
 
-* Added graphql support
-* Updated module to use independent python 2 & 3 implementations
+* Added GraphQL support
+* Updated module to use independent Python 2 & 3 implementations
 
 ## 1.3.2 2021-05-24
 
 * Fixed missing agent code in anomalous requests
-* Fixed missing field causing agent rpc errors
+* Fixed missing field causing agent RPC errors
 
 ## 1.3.1 2020-02-25
 
@@ -25,15 +27,15 @@
 
 ## 1.2.2 2019-06-06
 
-* Fixed handling of xml content type
+* Fixed handling of XML content type
 
 ## 1.2.1 2019-05-22
 
-* Fixed incompatibility with gunicorn
+* Fixed incompatibility with Gunicorn
 
 ## 1.2.0 2018-02-16
 
-* Fixed incompatibility with sigsci agent rpc/msgp
+* Fixed incompatibility with Signal Sciences agent RPC / `msgpack`
 
 ## 1.1.1 2018-02-16
 

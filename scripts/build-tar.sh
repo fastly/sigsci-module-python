@@ -22,7 +22,7 @@ rm -f python3/sigscimodule/*.pyc
 rm -f python2/sigscimodule/*.pyc
 
 # copy base
-cp -f VERSION "$DIR"
+cp -f VERSION setup.py "$DIR"
 
 # copy module files
 cp -f python2/sigscimodule/*.py "$DIR/python2/sigscimodule/"
